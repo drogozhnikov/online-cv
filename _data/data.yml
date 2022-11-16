@@ -3,31 +3,31 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan
-    tagline: Full
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Dmitriy Rogozhnikov
+  tagline: Java Back-end Developer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012
-    timezone: America
-    citizenship:
-    website: blog #do not add http://
-    linkedin: alan
-    xing: alan
-    github: sharu
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: DitarRogozhnikov@gmail.com
+  phone:  +375 (29) 563 0839
+  timezone: Minsk
+  citizenship: Belarus
+  website:
+  linkedin: dmitriy-rogozhnikov
+  xing:
+  github: https://github.com/drogozhnikov
+  telegram: drogozhnikov
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow:
+  codewars:
+  goodreads:
+  pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages

@@ -3,24 +3,24 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dmitriy Rogozhnikov
+    tagline: Java Back-end Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: DitarRogozhnikov@gmail.com
+    phone: +375 (29) 563 08 39
+    timezone: Belarus/Minsk
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: #blog.webjeda.com #do not add http://
+    linkedin: dmitriy-rogozhnikov
+    xing: #alandoe
+    github: dmitriy-rogozhnikov
+    telegram: dmitriy-rogozhnikov # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -32,22 +32,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Russian
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Intermediate
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: #Spanish
+          level: #Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: IoT Devices developing and programming
           link:
 
-        - item: Snowboarding
+        - item: 3D Printing and 3D Modeling
           link:
 
         - item: Cooking

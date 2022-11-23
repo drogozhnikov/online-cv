@@ -11,12 +11,11 @@ sidebar:
   tagline: Java Back-end Developer
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
+  city: Minsk, Belarus
   # Sidebar links
   email: DitarRogozhnikov@gmail.com
-  phone:  +375 (29) 563 0839
-  timezone: Minsk
-  citizenship: Belarus
-  website:
+  phone: +375 (29) 563 08 39
+  website: #blog.webjeda.com #do not add http://
   linkedin: dmitriy-rogozhnikov
   xing:
   github: drogozhnikov
@@ -24,31 +23,26 @@ sidebar:
   gitlab:
   bitbucket:
   twitter:
-  stack-overflow:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads:
-  pdf:
+  pdf: # http://www.africau.edu/images/default/sample.pdf
 
   languages:
-    title: Languages
-    info:
-      - idiom: Russian
-        level: Native
+    - idiom: Russian
+      level: Native
 
-      - idiom: English
-        level: Intermediate
-
+    - idiom: English
+      level: Intermediate
   interests:
-    title: Interests
-    info:
-      - item: IoT Devices developing and programming
-        link:
+    - item: IoT Devices developing and programming
+      link:
 
-      - item: 3D Printing and 3D Modeling
-        link:
+    - item: 3D Printing and 3D Modeling
+      link:
 
-      - item: Woodwork
-        link:
+    - item: Woodwork
+      link:
 
 career-profile:
   title: Career Profile
@@ -56,46 +50,117 @@ career-profile:
     - Date of Birth: April 28, 1995
     - Work experience: 2 years
 education:
-  title: Education
-  info:
-    - degree: Bachelor. Faculty of Civil Aviation, Electronic Equipment Engineer
-      university: BSAA (Belarusian State Academy of Aviation)
-      time: 2012 - 2018
-
-skills:
-  title: Skills
-
-    - name: Technical skills:|
-        - Java Core, Spring Framework(Data JPA, MVC), Spring Boot, REST API, Hibernate, Lombok, Maven, SQL, Git
-
-    - name: Work experience with (other technologies):|
-              - Java: GSON, Apache (HTTP Client, Commons), YAML.
-              - Tracking systems: SonarLint, SonarQube.
-              - Docker, SonarLint, SonarQube.
-
+  - degree: Bachelor. Software engineer.
+    university: Belarusian State University of Informatics and Radioelectronics
+    time: 2011 - 2016
+    details: |
+      Department of Information Technology Software.
 experiences:
-  title: Experiences
-  info:
-    - role: System Administrator
-      time: March 2018 - September 2019
-      company: Elilink Consulting
-      details: |
-        - Solving technical problems and user support
+  - role: Software Developer
+    time: March 2016 - Present
+    company: Ted Soft PUE (ЧУП "Тэд Софт"), Minsk
+    details: |
+      Developing Sayhello.cloud communication platform. For years, my responsibilities being mostly in:
+        - Investigation and research for actual solutions. Technical expertise. New functionality creation.
+        - Creating of database relations(PostgreSQL) and corresponding mappings(HBM and later Annotations-based)
+        - Developing Spring controllers and Struts 2 Actions classes
+        - Refactored monolith project to few libraries and services
+        - Developing websocket communication using Spring websockets, STOMP as protocol, JS(SockJS), ActiveMQ as broker
+        - Writing native SQL queries
+        - Developing repositories using Criteria API and later Spring Data JPA
+        - Migrated project to Spring v5 and Hibernate v5.
+        - Developing CRM integrations(Netsuite, Salesforce, Hubspot, Zendesk)
+        - Developing Netsuite customizations(Scripts, Entities, Forms, RESTlets, Self-created call buttons) and provide support to customers about this features.
 
-    - role: System Administrator
-      time: October 2019 - August 2019
-      company: LLC Elitrans
-      details: |
-        - Solving technical problems and user support
+  - role: Software Engineer
+    time: July 2016 - August 2017
+    company: Belarus State Economic University, Minsk
+    details: |
+      Developing app for parametrized export from students database to xml
+      # projects:
+      # title: Projects
+      # intro: >
+      # You can list your side projects or open source libraries in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      # assignments:
+      # - title: Velocity
+      # link: "#hook"
+      # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    - role: Software Engineer
-      time: 2020 - 2022
-      company: Beltamozhservice
-      details: |
-        Developing Declarant communication platform. For years, my responsibilities being mostly in:
-          - Support and development. New functionality creation.
-          - Refactored monolith project for better performance.
-          - Solving technical problems and user support
+      # - title: DevStudio
+      # link: "#"
+      # tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      # - title: Tempo
+      # link: "#"
+      # tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      # - title: Atom
+      # link: "#"
+      # tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      # - title: Delta
+      # link: "#"
+      # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      # publications:
+      # title: Publications
+      # intro: |
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
+      # papers:
+      # - title: The Art of Computer Programming
+      # link: "#"
+      # authors: Donald E. Knuth
+      # conference: Addison-Wesley, 1968
+
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      # link: "#"
+      # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      # - title: A syntax directed compiler for Algol 60
+      # link: "#"
+      # authors: Edgar T. Irons
+      # conference: "Comm. ACM 4 (1961), 51–55"
+
+      # skills:
+      # title: Skills &amp; Proficiency
+
+      # toolset:
+      # - name: Java
+      # level: 95%
+
+      # - name: SQL
+      # level: 85%
+
+      # - name: HTML5 & CSS
+      # level: 50%
+
+      # - name: Javascript & jQuery
+      # level: 15%
+
+      # - name: C/C++
+      # level: 40%
+
+      # - name: Sketch & Photoshop
+    # level: 60%
+
+skillstexts:
+  - title: Technical skills
+    details: |
+      - Java Core, Spring Framework(Data JPA, MVC, Validation, Messaging(WebSockets)), Spring Boot, REST API, JWT, Hibernate, Lombok, Maven, SQL, YouTrack, Git
+  - title:  CRM integrations and customization
+    details: |
+      - Netsuite, Salesforce, Hubspot, Zendesk
+  - title:  Work experience with (other technologies)
+    details: |
+      - Java: Struts 2, GSON, Bounce Castle Crypto APIs, JUnit 4, Apache (HTTP Client, Commons), YAML
+      - Tracking systems, CI/CD, documentation: JIRA, TeamCity, Draw.io, SonarLint, Maven checkstyle, SonarQube
+      - Used programming languages, platforms, toolkits :
+          C/C++(for microcontrollers and IoT devices), Flutter(Dart), SuiteScript(for developing Netsuite scripts), JS - for test purposes, Asterisk
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

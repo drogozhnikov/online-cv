@@ -19,8 +19,8 @@ sidebar:
     website: #blog.webjeda.com #do not add http://
     linkedin: dmitriy-rogozhnikov
     xing: #alandoe
-    github: dmitriy-rogozhnikov
-    telegram: dmitriy-rogozhnikov # add your nickname without '@' sign
+    github: drogozhnikov
+    telegram: drogozhnikov # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -50,7 +50,7 @@ sidebar:
         - item: 3D Printing and 3D Modeling
           link:
 
-        - item: Cooking
+        - item: Woodwork
           link:
 
 career-profile:

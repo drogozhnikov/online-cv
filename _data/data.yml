@@ -50,33 +50,34 @@ career-profile:
     - Date of Birth: April 28, 1995
     - Work experience: 2 years
 education:
-  - degree: Bachelor. Software engineer.
-    university: Belarusian State University of Informatics and Radioelectronics
-    time: 2011 - 2016
+  - degree: Bachelor. Faculty of Civil Aviation, Electronic Equipment Engineer
+    university: BSAA (Belarusian State Academy of Aviation)
+    time: 2012 - 2018
     details: |
-      Department of Information Technology Software.
+      Faculty of Civil Aviation, Electronic Equipment Engineer
 experiences:
-  - role: Software Developer
-    time: March 2016 - Present
-    company: Ted Soft PUE (ЧУП "Тэд Софт"), Minsk
+  - role: Software Engineer
+    time: June 2020 - June 2022
+    company: Beltamozhservice
+    details: |
+      Developing Declarant communication platform. For years, my responsibilities being mostly in:
+              - Support and development. New functionality creation.
+              - Refactored monolith project for better performance.
+              - Solving technical problems and user support
+
+  - role: System Administrator
+    time: October 2019 - August 2019
+    company: LLC Elitrans
+    details: |
+      Solving technical problems and user support
+  - role: System Administrator
+    time: March 2018 - September 2019
+    company: Elilink Consulting
     details: |
       Developing Sayhello.cloud communication platform. For years, my responsibilities being mostly in:
-        - Investigation and research for actual solutions. Technical expertise. New functionality creation.
-        - Creating of database relations(PostgreSQL) and corresponding mappings(HBM and later Annotations-based)
-        - Developing Spring controllers and Struts 2 Actions classes
-        - Refactored monolith project to few libraries and services
-        - Developing websocket communication using Spring websockets, STOMP as protocol, JS(SockJS), ActiveMQ as broker
-        - Writing native SQL queries
-        - Developing repositories using Criteria API and later Spring Data JPA
-        - Migrated project to Spring v5 and Hibernate v5.
-        - Developing CRM integrations(Netsuite, Salesforce, Hubspot, Zendesk)
-        - Developing Netsuite customizations(Scripts, Entities, Forms, RESTlets, Self-created call buttons) and provide support to customers about this features.
+        Solving technical problems and user support
 
-  - role: Software Engineer
-    time: July 2016 - August 2017
-    company: Belarus State Economic University, Minsk
-    details: |
-      Developing app for parametrized export from students database to xml
+
       # projects:
       # title: Projects
       # intro: >
@@ -151,16 +152,10 @@ experiences:
 skillstexts:
   - title: Technical skills
     details: |
-      - Java Core, Spring Framework(Data JPA, MVC, Validation, Messaging(WebSockets)), Spring Boot, REST API, JWT, Hibernate, Lombok, Maven, SQL, YouTrack, Git
-  - title:  CRM integrations and customization
-    details: |
-      - Netsuite, Salesforce, Hubspot, Zendesk
+      - Java Core, Spring Framework(Data JPA, Security), Spring Boot, REST API, JWT, Hibernate, Lombok, Maven, SQL, Git
   - title:  Work experience with (other technologies)
     details: |
-      - Java: Struts 2, GSON, Bounce Castle Crypto APIs, JUnit 4, Apache (HTTP Client, Commons), YAML
-      - Tracking systems, CI/CD, documentation: JIRA, TeamCity, Draw.io, SonarLint, Maven checkstyle, SonarQube
-      - Used programming languages, platforms, toolkits :
-          C/C++(for microcontrollers and IoT devices), Flutter(Dart), SuiteScript(for developing Netsuite scripts), JS - for test purposes, Asterisk
+      - Java:  GSON, JUnit 5, Apache (HTTP Client, Commons), YAML
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

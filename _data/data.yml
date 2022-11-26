@@ -156,16 +156,9 @@ experiences:
 
 skills:
   title: Skills &amp; Proficiency
-    details: |
-      Technical skills
-      - Java Core, Spring Framework(Data JPA, MVC, Validation, Messaging(WebSockets)), Spring Boot, REST API, JWT, Hibernate, Lombok, Maven, SQL, YouTrack, Git
-      CRM integrations and customization
-      - Netsuite, Salesforce, Hubspot, Zendesk
-      Work experience with (other technologies)
-      - Java: Struts 2, GSON, Bounce Castle Crypto APIs, JUnit 4, Apache (HTTP Client, Commons), YAML
-      - Tracking systems, CI/CD, documentation: JIRA, TeamCity, Draw.io, SonarLint, Maven checkstyle, SonarQube
-      - Used programming languages, platforms, toolkits :
-          C/C++(for microcontrollers and IoT devices), Flutter(Dart), SuiteScript(for developing Netsuite scripts), JS - for test purposes, Asterisk
+    summary: |
+      - Date of Birth: April 28, 1995
+      - Work experience: 2 years
 
 #footer: >
 #    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

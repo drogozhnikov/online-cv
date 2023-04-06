@@ -36,7 +36,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Intermediate
+          level: B1
 
     interests:
       title: Interests
@@ -147,11 +147,11 @@ projects:
   assignments:
     - title: Technical skills
       link: "#hook"
-      tagline: "Java Core, Spring Framework(Data JPA, Security), Spring Boot, REST API, JWT, Hibernate, Lombok, Maven, SQL, Git"
+      tagline: "Java Core, Spring Framework(Data JPA, Security, Cloud, Boot), REST API, JWT, Hibernate, Lombok, Maven, SQL, Git"
 
     - title: Work experience with (other technologies)
       link: "#"
-      tagline: "GSON, JUnit 5, Apache (HTTP Client, Commons), Docker, SonarLint, Migrations(FlyWay)"
+      tagline: "GSON, JUnit 5, Apache (HTTP Client, Commons), Docker, SonarLint, Jenkins, Migrations(FlyWay)"
 
 #footer: >
 #    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

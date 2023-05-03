@@ -47,8 +47,9 @@ sidebar:
         - item: 3D Printing and 3D Modeling
           link:
 
-        - item: Woodwork
+        - item: Woodwork, Obicycling, Hiking, Camping,
           link:
+
 
 career-profile:
     title: Career Profile
@@ -67,23 +68,33 @@ experiences:
     title: Experiences
     info:
       - role: Software Engineer
+          time: June 2022 - today
+          company: freelance
+          details: |
+            - Development of a user data management system. The system provides customers with access to store and modify their personal data in an encrypted form, such as personal accounts and lists of upcoming events, as well as a notification system for certain user-selected events.
+            - Development of an application for reading pharmacocodes. Allows an employee of a pharmacological enterprise to receive additional data on products by scanning the pharmacocode from the box using a mobile phone
+      - role: Software Engineer
         time: June 2020 - June 2022
         company: Beltamozhservice
         details: |
-          Developing Declarant communication platform. For years, my responsibilities being mostly in:
-            - Solving problems of installing and using a software project in non-standard situations.
-            - API development for new declarations. Loading and unloading in various formats. verification of the correctness of the entered data
-            - Adding changes to the API of existing declarations.
-            - Refactored monolith project for better performance.
-            - Development of functionality that improves usability.
+          Developing Declarant platform for electronic document management between customs systems. For years, my responsibilities being mostly in:
+            - Client management and support, like solving problems of installing and using a software project in non-standard situations.
+            - API development for new declarations. Loading and unloading in various formats. verification of the correctness of the entered data.
+            - Adding changes to the API of existing declarations. Rewriting API of existing declarations in accordance with applicable state law.
+            - Project refactoring for better performance and usability
+            - Research and development of functionality that improves usability.
             - Maintenance of the service for displaying the statuses of submitted declarations.
       - role: System Administrator
         time: October 2018 - August 2019
         company: LLC Elitrans
         details: |
           Responsibilities being mostly in:
+            - Network management
+            - Server maintenance
+            - Setup and commissioning of new servers
             - Assistance in solving technical issues of employees
             - Administration of corporate accounts
+            - Work with applications of company employees at the L3 level.
             - Registration of new employees
             - Technical support management
       - role: System Administrator

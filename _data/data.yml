@@ -68,11 +68,11 @@ experiences:
     title: Experiences
     info:
       - role: Software Engineer
-          time: June 2022 - today
-          company: freelance
-          details: |
-            - Development of a user data management system. The system provides customers with access to store and modify their personal data in an encrypted form, such as personal accounts and lists of upcoming events, as well as a notification system for certain user-selected events.
-            - Development of an application for reading pharmacocodes. Allows an employee of a pharmacological enterprise to receive additional data on products by scanning the pharmacocode from the box using a mobile phone
+        time: June 2022 - May 2023
+        company: Freelance
+        details: |
+          Development of a user data management system. The system provides customers with access to store and modify their personal data in an encrypted form, such as personal accounts and lists of upcoming events, as well as a notification system for certain user-selected events.
+          Development of an application for reading pharmacocodes. Allows an employee of a pharmacological enterprise to receive additional data on products by scanning the pharmacocode from the box using a mobile phone.
       - role: Software Engineer
         time: June 2020 - June 2022
         company: Beltamozhservice

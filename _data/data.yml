@@ -47,15 +47,23 @@ sidebar:
         - item: 3D Printing and 3D Modeling
           link:
 
-        - item: Woodwork, Obicycling, Hiking, Camping,
+        - item: Woodwork
           link:
 
+        - item: Bicycling
+          link:
+
+        - item: Hiking
+          link:
+
+        - item: Camping,
+          link:
 
 career-profile:
     title: Career Profile
     summary: |
       - Date of Birth: April 28, 1995
-      - Work experience: 2 years
+      - Work experience: 3 years
 education:
     title: Education
     info:
@@ -68,11 +76,16 @@ experiences:
     title: Experiences
     info:
       - role: Software Engineer
-        time: June 2022 - May 2023
+        time: January 2023 - May 2023
         company: Freelance
         details: |
           Development:
             - User data management system.The system provides customers with access to store and modify their personal data in an encrypted form, such as personal accounts and lists of upcoming events, as well as a notification system for certain user-selected events.
+      - role: Software Engineer
+        time: June 2022 - January 2023
+        company: Freelance
+        details: |
+          Development:
             - Application for reading pharmacocodes. Allows an employee of a pharmacological enterprise to receive additional data on products by scanning the pharmacocode from the box using a mobile phone.
       - role: Software Engineer
         time: June 2020 - June 2022
@@ -131,7 +144,6 @@ experiences:
 #      - title: Delta
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 #publications:
 #    title: Publications
 #    intro: |
@@ -159,11 +171,11 @@ projects:
   assignments:
     - title: Technical skills
       link: "#hook"
-      tagline: "Java Core, Spring Framework(Data JPA, Security, Cloud, Boot), REST API, JWT, Hibernate, Lombok, Maven, SQL, Git"
+      tagline: "Java Core, Spring Framework(Data JPA, Security, Cloud, Boot), REST API, JWT, Hibernate, JUnit 5, Lombok, SonarLint, Maven, SQL, Git, Migrations(FlyWay)"
 
     - title: Work experience with (other technologies)
       link: "#"
-      tagline: "Vue3, GSON, JUnit 5, Apache (HTTP Client, Commons), Docker, SonarLint, Jenkins, Migrations(FlyWay)"
+      tagline: "Vue3, Base64, Apache (HTTP Client, Commons), Docker,  Jenkins"
 
 #footer: >
 #    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

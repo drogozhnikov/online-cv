@@ -72,6 +72,27 @@ education:
         time: 2012 - 2018
         details: |
             Faculty of Civil Aviation, Electronic Equipment Engineer
+
+projects:
+  title: Skills
+
+  assignments:
+    - title: Key technologies
+      link: "#hook"
+      tagline: "Java, Spring Cloud, Spring Framework(Boot, Data JPA, Security), Hibernate, PostgresSQL, MongoDB"
+
+    - title: Technical skills
+      link: "#"
+      tagline: "Vue.js, Keycloak, WebFlux, REST API, Lombok, Maven, Git, Docker, Migrations(FlyWay)"
+
+    - title: Frontend skills
+      link: "#"
+      tagline: "Vue.js, js, HTML/CSS"
+
+    - title: Work experience with
+      link: "#"
+      tagline: "Jenkins, Docker, JUnit 5, Mockito, SonarLint, JWT, XML, Apache (HTTP Client, Commons)"
+
 experiences:
     title: Experiences
     info:
@@ -165,25 +186,6 @@ experiences:
 #        link: "#"
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
-projects:
-  title: Skills
-
-  assignments:
-    - title: Key technologies
-      link: "#hook"
-      tagline: "Java, Spring Cloud, Spring Framework(Boot, Data JPA, Security), Hibernate, PostgresSQL, MongoDB"
-
-    - title: Technical skills
-      link: "#"
-      tagline: "Vue.js, Keycloak, WebFlux, REST API, Lombok, Maven, Git, Docker, Migrations(FlyWay)"
-
-    - title: Frontend skills
-      link: "#"
-      tagline: "Vue.js, js, HTML/CSS"
-
-    - title: Work experience with
-      link: "#"
-      tagline: "Jenkins, Docker, JUnit 5, Mockito, SonarLint, JWT, XML, Apache (HTTP Client, Commons)"
 
 #footer: >
 #    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -53,9 +53,6 @@ sidebar:
         - item: Bicycling
           link:
 
-        - item: Hiking
-          link:
-
         - item: Camping
           link:
 
@@ -79,11 +76,11 @@ projects:
   assignments:
     - title: Key technologies
       link: "#hook"
-      tagline: "Java, Spring Cloud, Spring Framework(Boot, Data JPA, Security), Hibernate, PostgresSQL, MongoDB"
+      tagline: "Java, Spring Framework(Boot, Data JPA, Security), Spring Cloud, Hibernate, PostgresSQL"
 
     - title: Technical skills
       link: "#"
-      tagline: "Vue.js, Keycloak, WebFlux, REST API, Lombok, Maven, Git, Docker, Migrations(FlyWay)"
+      tagline: "Vue.js, Keycloak, WebFlux, REST API, Lombok, Maven, Git, Docker, Migrations(FlyWay), MongoDB"
 
     - title: Frontend skills
       link: "#"
@@ -91,11 +88,17 @@ projects:
 
     - title: Work experience with
       link: "#"
-      tagline: "Jenkins, Docker, JUnit 5, Mockito, SonarLint, JWT, XML, Apache (HTTP Client, Commons)"
+      tagline: "Jenkins, GitActions, Docker, JUnit 5, Mockito, SonarLint, JWT, XML, Apache (HTTP Client, Commons)"
 
 experiences:
     title: Experiences
     info:
+      - role: Software Engineer
+        time: June 2023 - Today
+        company: 21vek
+        details: |
+          Development and support of Warehouse Management System.
+            - Development of a new WMS system based on microservice architecture, taking into account the requirements of the 21vek company, as well as support for the current WMS system
       - role: Software Engineer
         time: October 2022 - May 2023
         company: Freelance

@@ -100,12 +100,6 @@ experiences:
           Development and support of Warehouse Management System.
             - Development of a new WMS system based on microservice architecture, taking into account the requirements of the 21vek company, as well as support for the current WMS system
       - role: Software Engineer
-        time: June 2022 - October 2022
-        company: Freelance
-        details: |
-          Development of Application for reading pharmacocodes.
-            -  Allows an employee of a pharmacological enterprise to receive additional data on products by scanning the pharmacocode from the box using a mobile phone.
-      - role: Software Engineer
         time: June 2020 - June 2022
         company: Beltamozhservice
         details: |

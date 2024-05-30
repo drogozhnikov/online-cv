@@ -98,8 +98,10 @@ experiences:
         company: 21vek
         details: |
           Development and support of Warehouse Management System.
-            - Development of a new WMS system based on microservice architecture, taking into account the requirements of the 21vek company, as well as support for the current WMS system
-      - role: Software Engineer
+            - Implementation of current business requirements for the EME warehouse management system in terms of the C++/QT server side as well as data collection terminals on the Android side
+            - Development of a slotting service for the YMS system based on java microservice architecture
+            - Design of a high-load WMS system based on microservice architecture, taking into account the requirements of a 21st century company.
+      - role: Java Back-end Developer
         time: June 2020 - June 2022
         company: Beltamozhservice
         details: |

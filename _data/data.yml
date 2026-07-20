@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dmitriy Rogozhnikov
-    tagline: Java Back-end Developer
+    name: Дмитрий Рогожников
+    tagline: Software Team Lead
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: DitarRogozhnikov@gmail.com
     phone: +375 (29) 563 08 39
-    timezone: Belarus/Minsk
-    citizenship:
+    timezone:
+    citizenship: Беларусь/Минск
     website: #blog.webjeda.com #do not add http://
-    linkedin: dmitriy-rogozhnikov
     xing: #alandoe
     github: drogozhnikov
+    linkedin: дмитрий-рогожников-449245199
     telegram: drogozhnikov # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -30,155 +30,124 @@ sidebar:
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Языки
       info:
-        - idiom: Russian
-          level: Native
-
-        - idiom: English
+        - idiom: Русский
+          level: Родной
+        - idiom: Английский
           level: B1
 
     interests:
-      title: Interests
+      title: Интересы
       info:
-        - item: IoT Devices developing and programming
+        - item: Проектирование, разработка, моделирование
           link:
-
-        - item: 3D Printing and 3D Modeling
+        - item: Резьба по дереву
           link:
-
-        - item: Woodwork
+        - item: Велоспорт
           link:
-
-        - item: Bicycling
-          link:
-
-        - item: Camping
+        - item: Путешествия
           link:
 
 career-profile:
-    title: Career Profile
+    title: О себе
     summary: |
-      - Date of Birth: April 28, 1995
-      - Work experience: 3 years
+      - Родился: 28 апреля 1995
+      - Опыт работы: 6 лет
 education:
-    title: Education
+    title: Образование
     info:
-      - degree: Bachelor. Faculty of Civil Aviation
-        university: BSAA (Belarusian State Academy of Aviation)
+      - degree: Бакалавр
+        university: БГАА (Белорусская государственная академия авиации)
         time: 2012 - 2018
         details: |
-            Faculty of Civil Aviation, Electronic Equipment Engineer
-
+          Инженер по технической эксплуатации электронного оборудования. Кафедра Радиоэлектронного оборудования.
+skills:
+  title: Ключевые технологии
+  toolset:
+    - name: Kotlin
+    - name: Java
+    - name: Vuetify4 (Vue 4)
+    - name: Spring framework
+    - name: PostgresSQL
+      level: 98%
 projects:
-  title: Skills
-
+  title: Навыки и проекты
+  intro: >
+    Так же работал со следующими технологиями в рамках указанных проектов: <br/>
+    <strong>Frontend:</strong> JS, HTML/CSS/SASS <br/>
+    <strong>Backend:</strong> Spring (Boot, Cloud, Data JPA, Security, WebFlux). FlyWay. Kafka. MinIO. Keycloak. REST API. JUnit 5. Mockito. JWT. XML. <br/>
+    <strong>DevOps:</strong> Linux, Docker, CI/CD(GitLab, GitHub), Grafana, Prometheus, SonarLint <br/>
+    <strong>Outher:</strong> Git, Maven, Gradle, Lombok, MongoDB
   assignments:
-    - title: Key technologies
-      link: "#hook"
-      tagline: "Java, Spring Framework(Boot, Data JPA, Security), Spring Cloud, Hibernate, PostgresSQL"
-
-    - title: Technical skills
-      link: "#"
-      tagline: "Vue.js, Keycloak, WebFlux, REST API, Lombok, Maven, Git, Docker, Migrations(FlyWay), MongoDB"
-
-    - title: Frontend skills
-      link: "#"
-      tagline: "Vue.js, js, HTML/CSS"
-
-    - title: Work experience with
-      link: "#"
-      tagline: "Jenkins, GitActions, Docker, JUnit 5, Mockito, SonarLint, JWT, XML, Apache (HTTP Client, Commons)"
+    - title: 21post.by
+      link: "https://21post.by/"
+      tagline: "<strong>ТехЛид, Fullstack-developer.</strong> <br/> Проект электронной регистрации поставщиков компании ООО Триовист."
+    - title: EME.WMS
+      link: "https://eme-wms.ru/"
+      tagline: "<strong>Adnroid-С++-developer.</strong> <br/> Система управления складом."
+    - title: Web Declarant
+      link: "https://web.declarant.by/"
+      tagline: "<strong>Backend-разрабочик.</strong> <br/> Сайт компании Beltamozhservice предназначенный для быстрого и удобного составления и подачи деклараций клиента. "
 
 experiences:
-    title: Experiences
+    title: Опыт
     info:
-      - role: Software Engineer
-        time: June 2023 - Today
-        company: 21vek
+      - role: A Software Team Lead
+        time: Август 2024 - По настоящее время
+        company: ООО "Триовист", Минск
         details: |
-          Development and support of Warehouse Management System.
-            - Implementation of current business requirements for the EME warehouse management system in terms of the C++/QT server side as well as data collection terminals on the Android side
-            - Development of a slotting service for the YMS system based on java microservice architecture
-            - Design of a high-load WMS system based on microservice architecture, taking into account the requirements of a 21st century company.
+          Взаимодействие между руководством и инженерами, поддержка электронной системы регистрации поставщиков.
+            - Управление командой: Менторство, обучение новичков, разрешение конфликтов и работа над мотивацией.
+            - Техническое лидерство: Проведение код-ревью, участие в проектировании архитектуры и контроль качества кода.
+            - Планирование и процессы: Распределение задач, оценка сроков, проведение дейли и планирование спринтов.
+            - Найм и рост: Участие в собеседованиях и составление планов индивидуального развития для сотрудников.
+            - Разработка Full-stack решения: Создание высокопроизводительного бэкенда на Kotlin/Spring Boot и адаптивных интерфейсов на Vuetify 3 для операторов и администраторов склада.
+            - DevOps и контейнеризация: Настроил Docker-окружение и автоматический деплой системы электронной регистрации поставщиков на собственные сервера компании.
+            - Оптимизация процессов: Провел масштабную работу по поиску слабых или неоптимизированных компонентов сстемы управления складом ЕМЕ.MWS и подготовил список мер-предложений для последующей рализации.
+      - role: Software Engineer
+        time: Июнь 2023 - Август 2024
+        company: ООО "Триовист", Минск
+        details: |
+          Системы управления складом EME.WMS
+          - Разработка модулей WMS: Реализация задач в ключевых бизнес-процессах: приемка, размещение, пополнение, комплектация и отгрузка товаров по требованию бизнеса.
+          - Интеграция с оборудованием: Сопряжение системы с терминалами сбора данных (ТСД), принтерами этикеток и весовым оборудованием.
+          - Доработки интеграция с ERP и внешними системами: Разработка механизмов обмена данными с 1С, SAP и другими учетными системами через REST API и шины данных.
+          - Доработки UI составляющей системы управления складом ЕМЕ-ВМС для выполнения поставленных складом задач и оптимизации процессов.
+          Проект: Система электронной регистрации поставщиков.
+          - Разработка Full-stack решения: Спроектировал и реализовал с нуля систему регистрации и верификации контрагентов.
+          - Бэкенд на Kotlin: Разработал бизнес-логику на Spring Boot, обеспечив надежную работу с данными и безопасную обработку заявок.
+          - Современный UI: Создал адаптивный интерфейс на Vuetify 3, обеспечив удобный процесс регистрации прибытия для поставщиков.
+          - DevOps и контейнеризация: Спроектировал Docker-окружение и схему работы электронной регистрации поставщиков на основе микросервисной архитектуры.
+          - Оптимизация процессов: Автоматизировал сбор данных о поставщиках, что сократило время обработки входящих заявок.
+          - На конец 2025г системой активно пользовалось около 300 поставщиков компании.
       - role: Java Back-end Developer
         time: June 2020 - June 2022
-        company: Beltamozhservice
+        company: РУП Белтаможсервис, Минск
         details: |
-          Developing Declarant platform for electronic document management between customs systems. For years, my responsibilities being mostly in:
-            - API development for new declarations. Loading and unloading in various formats. verification of the correctness of the entered data.
-            - Adding changes to the API of existing declarations. Rewriting API of existing declarations in accordance with applicable state law.
-            - Project refactoring for better performance and usability
-            - Research and development of functionality that improves usability.
-            - Client management and support, like solving problems of installing and using a software project in non-standard situations.
-            - Maintenance of the service for displaying the statuses of submitted declarations.
-      - role: System Administrator
-        time: October 2018 - August 2019
-        company: LLC Elitrans
+          Разработка коммуникационной платформы оформления деклараций eDeclarant. WebDeclarant
+            - Поддержка и развитие проекта: Приведение структуры и принципов работы приложения к текущему законодательству Республики Беларусь.
+            - Создание нового функционала: Реализация в проекте деклараций нового типа, а так же иснтрукций к ним.
+            - Рефакторинг проекта: с целью повышения производительности, скорости работы и удобства пользовательского интерфейса
+            - Поддержка пользователей, ответы на поставленные вопросы клиентов компании, решение конфликтных ситуаций.
+            - Проектирование и реализация back-end составляющей сайта WebDeclarant на Spring Framework
+      - role: Системный администратор
+        time: Октябрь 2018 - Август 2019
+        company: LLC Elitrans, Минск
         details: |
-          Responsibilities being mostly in:
-            - Network management
-            - Server maintenance
-            - Setup and commissioning of new servers
-            - Assistance in solving technical issues of employees
-            - Administration of corporate accounts
-            - Work with applications of company employees at the L3 level.
-            - Registration of new employees
-            - Technical support management
-      - role: System Administrator
-        time: February 2018 - September 2018
+          Основные обязанности:
+          - Управление сетью
+          - Техническое обслуживание серверов
+          - Настройка и ввод в эксплуатацию новых серверов
+          - Помощь в решении технических проблем сотрудников
+          - Администрирование корпоративных счетов
+          - Работа с приложениями сотрудников компании на уровне L3
+          - Регистрация новых сотрудников
+          - Управление технической поддержкой
+      - role: Системный администратор
+        time: Февраль 2018 - Сентябрь 2018
         company: Elilink Consulting
         details: |
-          Responsibilities being mostly in:
-            - Solving technical problems and user support
-            - Administration of corporate accounts
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
-
-#footer: >
-#    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+          Основные обязанности включают:
+          - Решение технических проблем и оказание поддержки пользователям
+          - Администрирование корпоративных аккаунтов
